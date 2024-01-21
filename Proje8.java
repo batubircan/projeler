@@ -1,4 +1,4 @@
-public class Proje8 {
+public class Proje8{
   public static void main(String[] args) {
     int n = 20;
 
